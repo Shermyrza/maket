@@ -253,7 +253,7 @@ header {
   font-size: 58px;
   font-weight: 800;
   text-align: center;
-  width: 50%;
+  /* width: 50%; */
 }
 
 .portfolio__list {
@@ -283,6 +283,9 @@ header {
 .portfolio__icon {
   margin-left: 45%;
   margin-top: 50px;
+}
+.portfolio__icon_second {
+  display: none;
 }
 
 /* portfolio block end */
